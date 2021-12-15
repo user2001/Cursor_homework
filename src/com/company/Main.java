@@ -4,12 +4,19 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+        System.out.println("x=");
         int x= scan.nextInt();
+        System.out.println("y=");
         int y= scan.nextInt();
+        System.out.println("a=");
         int a= scan.nextInt();
+        System.out.println("w=");
         int w= scan.nextInt();
+        System.out.println("b=");
         int b= scan.nextInt();
+        System.out.println("X=");
         int X= scan.nextInt();
+        System.out.println("e=");
         int e= scan.nextInt();
         int res1,res2,res3,res4;
         res1=x+y-a/2*(x+w);
