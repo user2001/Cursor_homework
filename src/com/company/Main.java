@@ -2,14 +2,14 @@ package com.company;
 
 public class Main {
     public static void main(String[] args) {
-        int x = 1;
-        int y = 2;
-        int a = 3;
-        int w = 4;
-        int b = 5;
-        int X = 6;
-        int e = 2;
-        int res1, res2, res3, res4;
+        double x = 1;
+        double y = 2;
+        double a = 3;
+        double w = 4;
+        double b = 5;
+        double X = 6;
+        double e = 2;
+        double res1, res2, res3, res4;
         res1 = x + y - a / 2 * (x + w);
         res2 = a * (x + x) / y - a * 3;
         res3 = a + b / x - y;
